@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: 2020-1 OSS Project
+description: SKKU 김광원 2019312751
 remote_theme: broccolini/swiss
 
 baseurl:  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: jekyll # the GitHub repo name for your project
-github_username: jekyll
+github_repo: one0955.github.io # the GitHub repo name for your project
+github_username: one0955
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble

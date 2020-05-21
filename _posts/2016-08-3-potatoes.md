@@ -13,7 +13,7 @@ categories: writing
 <br>
 
 
-![audio][https://i.imgur.com/pIpCaUQ.png alt="Audio Spectrum GUI"width=800]
+![audio][https://i.imgur.com/pIpCaUQ.png%20alt=%22Audio%20Spectrum%20GUI%22width=800]
 
 </p>
 <b>Notes:</b>

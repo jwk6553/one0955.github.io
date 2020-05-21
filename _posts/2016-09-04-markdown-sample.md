@@ -1,172 +1,78 @@
 ---
 layout: post
-title:  "Markdown sample"
-date:   2016-09-04
+title:  "프로젝트 진행"
+date:   2020-05-20
 ---
 
-### Markdown test document
+[2020-1-OSS-Team10 저장소](https://github.com/20-1-SKKU-OSS/2020-1-OSS-10)
+[2020-1-OSS-Team10 블로그](https://20-1-skku-oss.github.io/2020-1-OSS-10/)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be have dotted underlines and solid underlines on hover.
+## 10조 팀원
 
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
+* 
 
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
-
-> There should be no margin above this first sentence.
->
-> Blockquotes should be a italicized with a gray border along the left side.
->
-> There should be no margin below this final sentence.
-
-# Heading 1
-
-This is a normal paragraph following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-## Heading 2
-
-This is a normal paragraph following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
+    | Name | Git | Role
+    |-|-|-
+    | 서주원 | bearhunter49 | 팀장
+    | 김광원 | one0955 | 팀원
+    | 이지영 | ljy719 | 팀원
+    | 장병우 | cPy-seeBuy | 팀원
+    | 주원규 | jwk6553 | 팀원
+    
+## 프로젝트 선정과정
+<br>
+먼저 가장 선호하는 언어를 선정하였다.
 
 
-> This is a blockquote following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-This is a normal paragraph following a Heading. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
 
 
-### Heading 3
+<br>
+그리고 각자 마음에 드는 프로젝트를 소개하고 그 중 가장 투표를 많이 받은 프로젝트 2개를 선정하였다. 
+   
+   
+   
 
-```
-This is a code block following a Heading.
-```
+## 프로젝트 별 진행상황
+<br>
+아직 둘다 확연한 진전은 없고 프로젝트에 대해 알아가는 과정이다.
+<br>
+### [Visuaudio]( https://github.com/irahorecka/visuaudio)
 
-#### Heading 4
+이 프로젝트의 내용을 이해하는 것을 목표로 하고 있다.
 
-* This is an unordered list following a Heading.
-* This is an unordered list following a Heading.
-* This is an unordered list following a Heading.
+<br>
 
-##### Heading 5
+### [Python](https://github.com/TheAlgorithms/Python)
+ <br>
+ 이 프로젝트는 교육용 알고리즘을 모아놓고 발전시키는 프로젝트이다. 따라서 프로젝트 내부 구조와 알고리즘 내용을 학습하는 것이 우선이다.
+ 
 
-1. This is an ordered list following a Heading.
-2. This is an ordered list following a Heading.
-3. This is an ordered list following a Heading.
+<br>
+## 프로젝트 기여 방안 및 개선 사항
 
-###### Heading 6
 
-| What      | Follows         |
-|-----------|-----------------|
-| A table   | A Heading        |
-| A table   | A Heading        |
-| A table   | A Heading        |
+* Visuaudio
 
-----------------
+  -윈도우, 리눅스에서 실행할 수 있는 구체적인 가이드라인 제시(READEME.me 내용 추가) 
+  위 프로젝트는 Mac OS에서만 실행 하였고 리눅스 환경에서 실행한 결과 제대로 작동되지 않았다. 필요한 설치 파일이나 패키지 파일, 버전 호환, OS 호환 등의 어떠한 설명조차 없었다. 또한 사운드 입력에 관해서도 어떤 방식으로 인풋을 받아들이는지, 어떤 드라이브가 필요한지 등의 구체적인 설명이 없어 실행하기 매우 까다로웠다. 따라서 어느 환경에서도 쉽게 실행할 수 있는 구체적인 가이드라인을 만드는 데 기여할 수 있을 것이다. 실제로 리눅스와 윈도우 환경에서 실행해보고 안되는 부분과 왜 안 되는 지, 어떻게 해야하는 지, 어떤 부분을 추가,수정 할지 README 파일에 추가하는 방향으로 기여할 것이다.
+  
+  -패키지 버전 업데이트
+  requirements.txt에 들어있는 몇몇 파이썬 패키지들이 예전 버전이라 약간의 문제가 있는 것 같았다. 따라서 이를 최신 버전을 업그레이드 할 수 있을 것이다. 또한 리눅스 환경에서 numpy 1.18.3 패키지 버전이 기본적으로 없는 것 같았다. 따라서 이 원인도 알아보고 수정 할 것이다.
+  
+  - 라이브러리, 패키지 기능 주석화
+  이 프로젝트에 쓰인 모듈들이 처음 보는 사람들에게는 어렵게 느껴진다. 따라서 이에 관한 간략한 설명을 추가 할 것이다.
+  
+  -GUI 업그레이드 
+  프로젝트에 쓰인 라이브러리와 클래스를 잘 이해한다면 음성 시각화 방식을 다양화 할 수 있을 것이다.
 
-There's a horizontal rule above and below this.
+* Python 
+ 이 프로젝트는 규모가 크고 전문적으로 체계화가 잘 되어 있어서 기능적으로 추가나 수정은 힘들어 보인다. 그래서 확실하고 눈에 띠는 개선사항은 안타깝게도 찾을 수 없었다. 그럼에도 이 프로젝트가 선정된 이유에는 교육용으로써 유명 파이썬 알고리즘을 학습하면서 지식을 확장하기 위한 요인이 클 것이다. 큰 개선 사항은 없지만 한글화가 많이 부족하는 사실을 알 수 있었다. 따라서 문서 한글화를 통해 알고리즘을 학습하고 한국 초보 개발자들이 유용하게 활용할 수 있도록 하는 방향으로 기여할 것이다.
 
-----------------
+<br>
+<br>
+나는 주로 visuaudio에서 글래스 구조와 라이브러리 기능 등을 이해하여 쉽게 정리하고 리눅스 환경에서 각종 오류을 발견, 수정하는 역할을 할 것이다. 그리고 관심있는 Python 프로젝트 알고리즘을 학습하고 한글로 문서화 작업을 진행할 것이다.
 
-Here is an unordered list:
 
-* Salt-n-Pepa
-* Bel Biv DeVoe
-* Kid 'N Play
 
-And an ordered list:
 
-1. Michael Jackson
-2. Michael Bolton
-3. Michael Bublé
 
-And a nested list:
-
-* Jackson 5
-  * Michael
-  * Tito
-  * Jackie
-  * Marlon
-  * Jermaine
-* TMNT
-  * Leonardo
-  * Michelangelo
-  * Donatello
-  * Raphael
-
-Definition lists can be used with HTML syntax. Definition terms are bold and italic.
-
-<dl>
-    <dt>Name</dt>
-    <dd>Godzilla</dd>
-    <dt>Born</dt>
-    <dd>1952</dd>
-    <dt>Birthplace</dt>
-    <dd>Japan</dd>
-    <dt>Color</dt>
-    <dd>Green</dd>
-</dl>
-
-----------------
-
-Tables should have bold headings and alternating shaded rows.
-
-| Artist            | Album           | Year |
-|-------------------|-----------------|------|
-| Michael Jackson   | Thriller        | 1982 |
-| Prince            | Purple Rain     | 1984 |
-| Beastie Boys      | License to Ill  | 1986 |
-
-If a table is too wide, it should condense down and/or scroll horizontally.
-
-| Artist            | Album           | Year | Label       | Awards   | Songs     |
-|-------------------|-----------------|------|-------------|----------|-----------|
-| Michael Jackson   | Thriller        | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin' Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
-| Prince            | Purple Rain     | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let's Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I'm a Star, Purple Rain |
-| Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She's Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
-
-----------------
-
-Code snippets like `var foo = "bar";` can be shown inline.
-
-Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
-
-Code can also be shown in a block element.
-````
-var foo = "bar";
-````
-
-Code can also use syntax highlighting.
-````Javascript
-var foo = "bar";
-````
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```Javascript
-var foo = "The same thing is true for code with syntax highlighting. A single line of code should horizontally scroll if it is really long.";
-```
-
-Inline code inside table cells should still be distinguishable.
-
-| Language    | Code               |
-|-------------|--------------------|
-| Javascript  | `var foo = "bar";` |
-| Ruby        | `foo = "bar"`      |
-
-----------------
-
-Small images should be shown at their actual size.
-
-![](http://placekitten.com/g/300/200/)
-
-Large images should always scale down and fit in the content container.
-
-![](http://placekitten.com/g/1200/800/)
-
-```
-This is the final element on the page and there should be no margin below this.
-```
-<!-- %enddocs -->
-
-## License
-
-[MIT](./LICENSE)

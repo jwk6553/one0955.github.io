@@ -12,8 +12,7 @@ categories: writing
 
 <br>
 
-
-![audio][https://i.imgur.com/pIpCaUQ.png%20alt=%22Audio%20Spectrum%20GUI%22width=800]
+![image](https://user-images.githubusercontent.com/63694834/82566735-5116f180-9bb7-11ea-9eef-abdafb0eb497.png)
 
 </p>
 <b>Notes:</b>

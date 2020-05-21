@@ -14,18 +14,17 @@ categories: writing
 
 ![image](https://user-images.githubusercontent.com/63694834/82566735-5116f180-9bb7-11ea-9eef-abdafb0eb497.png)
 
-</p>
+
 <b>Notes:</b>
 <ul>
 <li>Ensure you have a working input sound source.</li>
 <li>Run the application on your native terminal (i.e. not iTerm2, etc.)</li>
 <li>On MacOS, you will have to grant Terminal permission to use the input sound source.</li>
 <li>Windows, Linux..?
-</ul>
+
 
 <br>
-<br>
-<br>
+
 
 # The Algorithms - Python
 -
@@ -34,13 +33,5 @@ categories: writing
 
 These implementations are for learning purposes. They may be less efficient than the implementations in the Python standard library.
 
-## Contribution Guidelines
 
-Read our [![Contribution Guidelines](https://github.com/BearHunter49/Python/blob/a29a2a3a0698e936d7275e2c02d3c0c6e478cb4c/CONTRIBUTING.md)] before you contribute.
-
-## Community Channel
-
-We're on [![Gitter](https://gitter.im/TheAlgorithms)]!  Please join us.
-
-## List of Algorithms
 

@@ -13,8 +13,8 @@ categories: writing
 <br>
 
 
-<p align="center">
-<img src=https://i.imgur.com/pIpCaUQ.png alt="Audio Spectrum GUI"width=800>
+![audio][https://i.imgur.com/pIpCaUQ.png alt="Audio Spectrum GUI"width=800]
+
 </p>
 <b>Notes:</b>
 <ul>
@@ -29,7 +29,7 @@ categories: writing
 <br>
 
 # The Algorithms - Python
-
+-
 
 ### All algorithms implemented in Python (for education)
 
@@ -37,11 +37,11 @@ These implementations are for learning purposes. They may be less efficient than
 
 ## Contribution Guidelines
 
-Read our ![Contribution Guidelines](https://github.com/BearHunter49/Python/blob/a29a2a3a0698e936d7275e2c02d3c0c6e478cb4c/CONTRIBUTING.md) before you contribute.
+Read our [![Contribution Guidelines](https://github.com/BearHunter49/Python/blob/a29a2a3a0698e936d7275e2c02d3c0c6e478cb4c/CONTRIBUTING.md)] before you contribute.
 
 ## Community Channel
 
-We're on ![Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
+We're on [![Gitter](https://gitter.im/TheAlgorithms)]!  Please join us.
 
 ## List of Algorithms
 

@@ -12,7 +12,6 @@ date:   2020-05-21
 <br>
  {% include visuaudio_demo.html fjJemRqaaxo="https://www.youtube.com/watch?v=fjJemRqaaxo" %}  
 
-fjJemRqaaxo
 <br>
 추가에 대한 구체적인 방법은 추후 프로젝트를 어느정도 이해하고 나서 하기로 한다.
 

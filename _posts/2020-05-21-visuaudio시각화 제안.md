@@ -11,10 +11,6 @@ date:   2020-05-21
 따라서 아래 영상과 같은 기능을 추가해보면 어떨까 한다. 
 <br>
  
- {% include youtubePlayer.html id=page.youtubeId %}  
- 
- <br>
-   
  {% include youtubePlayer.html id="fjJemRqaaxo" %}  
  
 <br>

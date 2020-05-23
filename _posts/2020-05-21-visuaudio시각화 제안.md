@@ -10,7 +10,7 @@ date:   2020-05-21
 
 따라서 아래 영상과 같은 기능을 추가해보면 어떨까 한다. 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fjJemRqaaxo" frameborder="0" allowfullscreen></iframe>
+{ % youtube https://www.youtube.com/watch?v=fjJemRqaaxo % }
 
 <br>
 추가에 대한 구체적인 방법은 추후 프로젝트를 어느정도 이해하고 나서 하기로 한다.
